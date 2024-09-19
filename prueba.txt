@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Modificación desde la rama master
+=======
+Modificación para segunda rama
+>>>>>>> segunda
+
+
+MODIFICACIÓN PARA EL CONFLICTO
